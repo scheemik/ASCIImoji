@@ -62,7 +62,7 @@ function setupContextMenus() {
 }
 
 function init(result) {
-  var defaultSettings = { prefix: "(", suffix: ")", contextMenu: true };
+  var defaultSettings = { prefix: "<", suffix: ">", contextMenu: true };
   settings = Object.assign({}, defaultSettings, result.settings);
 
   if (settings.contextMenu) {

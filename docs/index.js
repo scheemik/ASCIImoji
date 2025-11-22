@@ -10843,8 +10843,8 @@ var asciimoji = function (text, options, userDictionary) {
   }
 
   var o = options || {
-    prefix: "(",
-    suffix: ")",
+    prefix: "<",
+    suffix: ">",
   };
 
   function transpose(str, table, backwards) {
@@ -11408,8 +11408,8 @@ var dictionary = {
 (function ($, window, document, asciimoji) {
   var pluginName = "asciimoji",
     defaults = {
-      prefix: "(",
-      suffix: ")",
+      prefix: "<",
+      suffix: ">",
     };
 
   function Plugin(element, options, dictionary) {

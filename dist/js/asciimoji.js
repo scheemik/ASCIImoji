@@ -13,8 +13,8 @@ var asciimoji = function (text, options, userDictionary) {
   }
 
   var o = options || {
-    prefix: "(",
-    suffix: ")",
+    prefix: "<",
+    suffix: ">",
   };
 
   function transpose(str, table, backwards) {

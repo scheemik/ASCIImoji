@@ -2,8 +2,8 @@ var fs = require("fs");
 
 // @@dictionary
 
-var prefix = "(";
-var suffix = ")";
+var prefix = "<";
+var suffix = ">";
 
 var content = `<?xml version="1.0" encoding="UTF-8"?>
 <!--

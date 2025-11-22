@@ -6,7 +6,7 @@ var storage = {
 };
 
 function init(result) {
-  var defaultSettings = { prefix: "(", suffix: ")", contextMenu: true };
+  var defaultSettings = { prefix: "<", suffix: ">", contextMenu: true };
 
   storage.settings = Object.assign({}, defaultSettings, result.settings);
   storage.dictionary = Object.assign({}, result.dictionary);
