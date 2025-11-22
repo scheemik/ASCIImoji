@@ -4,3 +4,4 @@ resources
 changes.txt
 todo.txt
 src/chrome-extension/key.pem
+*.DS_Store
