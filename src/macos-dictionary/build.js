@@ -31,6 +31,9 @@ function escape(str) {
   return str;
 }
 
+prefix = escape(prefix);
+suffix = escape(suffix);
+
 entries.forEach(key => {
   var entry = dictionary[key];
 
