@@ -2,14 +2,16 @@
 
 ASCIImoji is a small library which replaces certain keywords in texts with ASCII emoticons.
 
+Originally forked from jigglycrumb/ASCIImoji
+
 **Features**
 
-- currently **296** different built-in emoticons/symbols
+- currently **157** different built-in emoticons/symbols
 - interactive emoticons / generators
-- configurable keyword prefix and suffix (_defaults to parentheses ( )_)
+- configurable keyword prefix and suffix (_defaults to angle brackets < >_)
 - support for custom emoticons
 
-Current version: **1.6.0**
+Current version: **1.6.1**
 
 **Release types**
 
