@@ -324,7 +324,7 @@
         <key>phrase</key>
         <string>ヽ(｀Д´)ﾉ</string>
         <key>shortcut</key>
-        <string>&lt;do not want&gt;</string>
+        <string>&lt;donotwant&gt;</string>
     </dict>
     <dict>
         <key>phrase</key>
@@ -337,12 +337,6 @@
         <string>＼⁠(⁠°⁠o⁠°⁠)⁠／</string>
         <key>shortcut</key>
         <string>&lt;doot&gt;</string>
-    </dict>
-    <dict>
-        <key>phrase</key>
-        <string>༼ つ ◕_ ◕ ༽つ</string>
-        <key>shortcut</key>
-        <string>&lt;do want&gt;</string>
     </dict>
     <dict>
         <key>phrase</key>
@@ -522,7 +516,7 @@
         <key>phrase</key>
         <string>☜(ツ)☜</string>
         <key>shortcut</key>
-        <string>&lt;left finger guns&gt;</string>
+        <string>&lt;leftfingerguns&gt;</string>
     </dict>
     <dict>
         <key>phrase</key>
@@ -552,19 +546,13 @@
         <key>phrase</key>
         <string>☞(ツ)☞</string>
         <key>shortcut</key>
-        <string>&lt;right finger guns&gt;</string>
+        <string>&lt;rightfingerguns&gt;</string>
     </dict>
     <dict>
         <key>phrase</key>
         <string>(ง •̀_•́)ง</string>
         <key>shortcut</key>
         <string>&lt;fight&gt;</string>
-    </dict>
-    <dict>
-        <key>phrase</key>
-        <string>(ง︡&apos;-&apos;︠)ง</string>
-        <key>shortcut</key>
-        <string>&lt;fight me&gt;</string>
     </dict>
     <dict>
         <key>phrase</key>
@@ -631,12 +619,6 @@
         <string>^•ﻌ•^</string>
         <key>shortcut</key>
         <string>&lt;fox&gt;</string>
-    </dict>
-    <dict>
-        <key>phrase</key>
-        <string>ฅ^•ﻌ•^ฅ</string>
-        <key>shortcut</key>
-        <string>&lt;fox paws&gt;</string>
     </dict>
     <dict>
         <key>phrase</key>

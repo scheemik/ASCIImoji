@@ -41,9 +41,9 @@ dj d[-_-]b
 dog (◕ᴥ◕ʋ)
 dollar $
 dontcare,idc (- ʖ̯-)
-donotwant,do not want,dontwant ヽ(｀Д´)ﾉ
+donotwant,dontwant ヽ(｀Д´)ﾉ
 doot ＼⁠(⁠°⁠o⁠°⁠)⁠／
-dowant,do want,gib ༼ つ ◕_ ◕ ༽つ
+dowant,gib ༼ つ ◕_ ◕ ༽つ
 dope <(^_^)>
 doublequotesleft,<< «
 doublequotesright,>> »
@@ -63,10 +63,10 @@ epsilon ɛ
 euro €
 fancy ಠ‿ರೃ
 fart (ˆ⺫ˆ๑)<3
-fgunl,fgunsl,lfgun,lfguns,left finger guns ☜(ツ)☜
-fgunr,fgunsr,rfgun,rfguns,right finger guns ☞(ツ)☞
+fgunl,fgunsl,lfgun,lfguns,leftfingerguns ☜(ツ)☜
+fgunr,fgunsr,rfgun,rfguns,rightfingerguns ☞(ツ)☞
 fight (ง •̀_•́)ง
-fightme,fight me (ง︡'-'︠)ง
+fightme (ง︡'-'︠)ง
 finn | (• ◡•)|
 five,5 卌
 fiveeights,5/8 ⅝
@@ -75,7 +75,7 @@ flexing ᕙ(`▽´)ᕗ
 flower ✿
 fly ─=≡Σ((( つ◕ل͜◕)つ
 fox ^•ﻌ•^
-foxpaws,fox paws ฅ^•ﻌ•^ฅ
+foxpaws ฅ^•ﻌ•^ฅ
 fuckyou,fu ᶠᶸᶜᵏ♥ᵧₒᵤ
 gentleman,sir,monocle ಠ_ರೃ
 ghost ༼ つ ╹ ╹ ༽つ

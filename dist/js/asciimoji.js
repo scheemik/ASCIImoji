@@ -39,6 +39,7 @@ var asciimoji = function (text, options, userDictionary) {
   }
 
   // /* ASCIImoji dictionary */
+/* Note: replacement phrases (words) cannot contain spaces */
 
 var dictionary = {
   // acid: { words: ["acid"], ascii: "⊂(◉‿◉)つ" },
@@ -133,9 +134,9 @@ var dictionary = {
   // dong: { words: ["dong"], ascii: "(̿▀̿ ̿Ĺ̯̿̿▀̿ ̿)̄" },
   // donger: { words: ["donger"], ascii: "ヽ༼ຈل͜ຈ༽ﾉ" },
   dontcare: { words: ["dontcare", "idc"], ascii: "(- ʖ̯-)" },
-  donotwant: { words: ["do not want", "dontwant"], ascii: "ヽ(｀Д´)ﾉ" },
+  donotwant: { words: ["donotwant", "dontwant"], ascii: "ヽ(｀Д´)ﾉ" },
   doot: { words: ["doot"], ascii: "＼⁠(⁠°⁠o⁠°⁠)⁠／" },
-  dowant: { words: ["do want", "dowant", "gib"], ascii: "༼ つ ◕_ ◕ ༽つ" },
+  dowant: { words: ["dowant", "gib"], ascii: "༼ つ ◕_ ◕ ༽つ" },
   dope: { words: ["dope"], ascii: "<(^_^)>" },
   doublequotesleft: { words: ["<<"], ascii: "«" },
   doublequotesright: { words: [">>"], ascii: "»" },
@@ -208,10 +209,10 @@ var dictionary = {
     },
   },
   fart: { words: ["fart"], ascii: "(ˆ⺫ˆ๑)<3" },
-  fgunl: { words: ["fgunl", "fgunsl", "lfgun", "lfguns", "left finger guns"], ascii: "☜(ツ)☜" },
-  fgunr: { words: ["fgunr", "fgunsr", "rfgun", "rfguns", "right finger guns"], ascii: "☞(ツ)☞" },
+  fgunl: { words: ["fgunl", "fgunsl", "lfgun", "lfguns", "leftfingerguns"], ascii: "☜(ツ)☜" },
+  fgunr: { words: ["fgunr", "fgunsr", "rfgun", "rfguns", "rightfingerguns"], ascii: "☞(ツ)☞" },
   fight: { words: ["fight"], ascii: "(ง •̀_•́)ง" },
-  fightme: { words: ["fight me", "fightme"], ascii: "(ง︡'-'︠)ง" },
+  fightme: { words: ["fightme"], ascii: "(ง︡'-'︠)ง" },
   finn: { words: ["finn"], ascii: "| (• ◡•)|" },
   // fish: { words: ["fish"], ascii: '<"(((<3' },
   five: { words: ["5", "five"], ascii: "卌" },
@@ -281,7 +282,7 @@ var dictionary = {
   flower: { words: ["flower"], ascii: "✿" },
   fly: { words: ["fly"], ascii: "─=≡Σ((( つ◕ل͜◕)つ" },
   fox: { words: ["fox"], ascii: "^•ﻌ•^" },
-  foxpaws: { words: ["fox paws", "foxpaws"], ascii: "ฅ^•ﻌ•^ฅ" },
+  foxpaws: { words: ["foxpaws"], ascii: "ฅ^•ﻌ•^ฅ" },
   // friendflip: { words: ["friendflip"], ascii: "(╯°□°)╯︵ ┻━┻ ︵ ╯(°□° ╯)" },
   // frown: { words: ["frown"], ascii: "(ღ˘⌣˘ღ)" },
   // fuckoff: { words: ["fuckoff", "gtfo"], ascii: "୧༼ಠ益ಠ╭∩╮༽" },
