@@ -184,6 +184,24 @@
     </dict>
     <dict>
         <key>phrase</key>
+        <string>૮(„• ༝ •„)ა</string>
+        <key>shortcut</key>
+        <string>&lt;bunny&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
+        <string>૮(„• ༝ •„)ა</string>
+        <key>shortcut</key>
+        <string>&lt;bunbun&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
+        <string>૮(„• ༝ •„)ა</string>
+        <key>shortcut</key>
+        <string>&lt;rabbit&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
         <string>ƸӜƷ</string>
         <key>shortcut</key>
         <string>&lt;butterfly&gt;</string>
@@ -496,6 +514,30 @@
     </dict>
     <dict>
         <key>phrase</key>
+        <string>＼⁠(⁠°⁠o⁠°⁠)⁠／</string>
+        <key>shortcut</key>
+        <string>&lt;doot&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
+        <string>༼ つ ◕_ ◕ ༽つ</string>
+        <key>shortcut</key>
+        <string>&lt;do want&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
+        <string>༼ つ ◕_ ◕ ༽つ</string>
+        <key>shortcut</key>
+        <string>&lt;dowant&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
+        <string>༼ つ ◕_ ◕ ༽つ</string>
+        <key>shortcut</key>
+        <string>&lt;gib&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
         <string>&lt;(^_^)&gt;</string>
         <key>shortcut</key>
         <string>&lt;dope&gt;</string>
@@ -682,15 +724,93 @@
     </dict>
     <dict>
         <key>phrase</key>
+        <string>ಠ‿ರೃ</string>
+        <key>shortcut</key>
+        <string>&lt;fancy&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
         <string>(ˆ⺫ˆ๑)&lt;3</string>
         <key>shortcut</key>
         <string>&lt;fart&gt;</string>
     </dict>
     <dict>
         <key>phrase</key>
+        <string>☜(ツ)☜</string>
+        <key>shortcut</key>
+        <string>&lt;fgunl&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
+        <string>☜(ツ)☜</string>
+        <key>shortcut</key>
+        <string>&lt;fgunsl&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
+        <string>☜(ツ)☜</string>
+        <key>shortcut</key>
+        <string>&lt;lfgun&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
+        <string>☜(ツ)☜</string>
+        <key>shortcut</key>
+        <string>&lt;lfguns&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
+        <string>☜(ツ)☜</string>
+        <key>shortcut</key>
+        <string>&lt;left finger guns&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
+        <string>☞(ツ)☞</string>
+        <key>shortcut</key>
+        <string>&lt;fgunr&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
+        <string>☞(ツ)☞</string>
+        <key>shortcut</key>
+        <string>&lt;fgunsr&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
+        <string>☞(ツ)☞</string>
+        <key>shortcut</key>
+        <string>&lt;rfgun&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
+        <string>☞(ツ)☞</string>
+        <key>shortcut</key>
+        <string>&lt;rfguns&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
+        <string>☞(ツ)☞</string>
+        <key>shortcut</key>
+        <string>&lt;right finger guns&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
         <string>(ง •̀_•́)ง</string>
         <key>shortcut</key>
         <string>&lt;fight&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
+        <string>(ง︡&apos;-&apos;︠)ง</string>
+        <key>shortcut</key>
+        <string>&lt;fight me&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
+        <string>(ง︡&apos;-&apos;︠)ง</string>
+        <key>shortcut</key>
+        <string>&lt;fightme&gt;</string>
     </dict>
     <dict>
         <key>phrase</key>
@@ -778,6 +898,24 @@
     </dict>
     <dict>
         <key>phrase</key>
+        <string>^•ﻌ•^</string>
+        <key>shortcut</key>
+        <string>&lt;fox&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
+        <string>ฅ^•ﻌ•^ฅ</string>
+        <key>shortcut</key>
+        <string>&lt;fox paws&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
+        <string>ฅ^•ﻌ•^ฅ</string>
+        <key>shortcut</key>
+        <string>&lt;foxpaws&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
         <string>(╯°□°)╯︵ ┻━┻ ︵ ╯(°□° ╯)</string>
         <key>shortcut</key>
         <string>&lt;friendflip&gt;</string>
@@ -802,13 +940,13 @@
     </dict>
     <dict>
         <key>phrase</key>
-        <string>┌П┐(ಠ_ಠ)</string>
+        <string>ᶠᶸᶜᵏ♥ᵧₒᵤ</string>
         <key>shortcut</key>
         <string>&lt;fuckyou&gt;</string>
     </dict>
     <dict>
         <key>phrase</key>
-        <string>┌П┐(ಠ_ಠ)</string>
+        <string>ᶠᶸᶜᵏ♥ᵧₒᵤ</string>
         <key>shortcut</key>
         <string>&lt;fu&gt;</string>
     </dict>
@@ -1042,7 +1180,7 @@
     </dict>
     <dict>
         <key>phrase</key>
-        <string>(づ｡◕‿‿◕｡)づ</string>
+        <string>(っ◕‿◕)っ</string>
         <key>shortcut</key>
         <string>&lt;hug&gt;</string>
     </dict>
@@ -1303,6 +1441,12 @@
         <string>ಠ_ಠ</string>
         <key>shortcut</key>
         <string>&lt;meh&gt;</string>
+    </dict>
+    <dict>
+        <key>phrase</key>
+        <string>ಠ_ಠ</string>
+        <key>shortcut</key>
+        <string>&lt;disap&gt;</string>
     </dict>
     <dict>
         <key>phrase</key>
